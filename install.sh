@@ -1,10 +1,8 @@
 #! /bin/bash
 
-#Download software
-
-sudo apt update && apt upgrade
-
-sudo apt install tmux neovim
+# Download software
+#sudo apt update && apt upgrade
+#sudo apt install tmux neovim
 
 # Create folders
 mkdir ~/.config/nvim
